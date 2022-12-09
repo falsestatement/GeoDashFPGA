@@ -1,0 +1,2059 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/simulation/modelsim
+valtera_avalon_i2c
+Z1 !s110 1651545202
+!i10b 1
+!s100 i;I80YB`l0<cOH0Mh0OXC2
+ILHXGN6PH@oFhe`A`262[Z2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1651078100
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c.v
+Z4 L0 18
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1651545202.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c.v|
+!i113 1
+Z7 o-vlog01compat -work lab62_soc
+Z8 !s92 -vlog01compat -work lab62_soc +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules
+Z9 tCvgOpt 0
+valtera_avalon_i2c_clk_cnt
+R1
+!i10b 1
+!s100 CAQU3PEJGHFhmUSJ9nV@02
+IBTVcDi7lHSHP_R_fh5a?c3
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_clk_cnt.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_clk_cnt.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_clk_cnt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_clk_cnt.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_condt_det
+R1
+!i10b 1
+!s100 NWHS0:R1WP@@17W[f`AJI0
+I22HOSI@81bhml7?kb]HR^0
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_det.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_det.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_det.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_det.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_condt_gen
+R1
+!i10b 1
+!s100 F?IU54?<EV_ITzfFeG@`Z2
+Ia<2_gAcBQB[oX;:D74n6R1
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_gen.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_gen.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_condt_gen.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_csr
+R1
+!i10b 1
+!s100 _=XDE5_WWD1FP8Djl72V@1
+IN=aDJecboSKBG[zKB6Z;C1
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_csr.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_csr.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_csr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_csr.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_fifo
+R1
+!i10b 1
+!s100 K6:GE0kJz4H;LzVG[N3Ao2
+IXVWHb<47B515WFG69Di>G1
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_fifo.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_fifo.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_fifo.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_mstfsm
+R1
+!i10b 1
+!s100 EoIZ@gjk[7@:RNMP??jE51
+IjR4n>9=ASEGc2l1GKckGc2
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_mstfsm.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_mstfsm.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_mstfsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_mstfsm.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_rxshifter
+R1
+!i10b 1
+!s100 NH?j7@d_^5gIg43`l^N`W3
+I=fzZEkzVUWD]nd7<Ia`7j2
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_rxshifter.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_rxshifter.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_rxshifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_rxshifter.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_spksupp
+R1
+!i10b 1
+!s100 L4Jc3zDI^<U>:e]oA=kFJ0
+I1dR`<fnJ@b;R9giWi8GDG1
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_spksupp.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_spksupp.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_spksupp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_spksupp.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_txout
+Z10 !s110 1651545203
+!i10b 1
+!s100 :0U7=ZbJ=6_9QSWgb9VmM1
+IkZ:Pi;ke^1o@=lnTZcPKF0
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txout.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txout.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txout.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txout.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_i2c_txshifter
+R1
+!i10b 1
+!s100 ceW5>`_l>2G>TjfE>=9`60
+I<9RceRbfzIa;C9_>R>?093
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txshifter.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txshifter.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txshifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_i2c_txshifter.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_sc_fifo
+Z11 !s110 1651545200
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+I6=O][?LUf2`Ya7V[fX8VV2
+R2
+R0
+Z12 w1651078159
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z13 L0 21
+R5
+r1
+!s85 0
+31
+Z14 !s108 1651545200.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_clock_crosser
+R10
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+Ihai4dLTQEP0cPT`ok?eV@0
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+Z15 !s108 1651545203.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_avalon_st_handshake_clock_crosser
+R10
+!i10b 1
+!s100 3f<J9K;e[9FU@JKn0^PK?0
+IRo;60Q9[OKJ]>=gKkoene2
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z16 L0 24
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+Z17 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R10
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+IQz6nWUFO0dfD4T1O_MkfG0
+R2
+Z18 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R12
+Z19 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+Z20 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+R15
+Z21 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z23 o-sv -work lab62_soc
+Z24 !s92 -sv -work lab62_soc +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules
+R9
+valtera_merlin_arbitrator
+R17
+R10
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+IDML[lQm3UeMFdhdN6VkU=1
+R2
+R18
+S1
+R0
+R12
+R19
+R20
+L0 103
+R5
+r1
+!s85 0
+31
+R15
+R21
+R22
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_adapter
+R17
+Z25 !s110 1651545204
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+IlkDLV=b_RPV^9l0h4cR^Y0
+R2
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter.sv
+R13
+R5
+r1
+!s85 0
+31
+Z26 !s108 1651545204.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_adapter_uncompressed_only
+R17
+R25
+!i10b 1
+!s100 STH]BdUM[JDMJZNJGXCd>0
+IAOcTU0mMSjb0aQRa`gKS`1
+R2
+!s105 altera_merlin_burst_adapter_uncmpr_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+L0 39
+R5
+r1
+!s85 0
+31
+R26
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_burst_uncompressor
+R17
+R10
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+I?lICEdT>=?607cTbMeC<i2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_master_agent
+R17
+Z27 !s110 1651545205
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+Ij9Mfk]VE@jXOeJ]X?JPjZ3
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_agent.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+Z28 !s108 1651545205.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_master_translator
+R17
+R27
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+Iaa5VjiG7XQ3ngRRbHQIVR2
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_translator.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_translator.sv
+L0 32
+R5
+r1
+!s85 0
+31
+R28
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_slave_agent
+R17
+R25
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IS@LE0^h:lHAXHR_kh@7T71
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+Z29 L0 34
+R5
+r1
+!s85 0
+31
+R26
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_slave_translator
+R17
+R27
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+IB4D3lkQ]9Q@=YJ^o:BiW11
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R28
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R23
+R24
+R9
+valtera_merlin_width_adapter
+R17
+R10
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+IZO8XZaQ;<1cnUgdLZ>C[a1
+R2
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_width_adapter.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_width_adapter.sv
+L0 25
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R23
+R24
+R9
+valtera_reset_controller
+R11
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+I;l@C@T8VPmWnYb@96YK6V1
+R2
+R0
+Z30 w1651078152
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_controller.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+Z31 !s108 1651545199.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R7
+R8
+R9
+valtera_reset_synchronizer
+R11
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+Ig595DB[b5e2ODG6a`;D8?0
+R2
+R0
+R30
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v
+R16
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R7
+R8
+R9
+valtera_std_synchronizer_nocut
+R10
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+I3mAR?XmGmRiX8COd2TYQd0
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc
+!s110 1651545199
+!i10b 1
+!s100 81SBF6KjgBRI8=9cQKPYN0
+IlQn0Gi:@e16T7bDJQA:Gi2
+R2
+R0
+w1651078099
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/lab62_soc.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/lab62_soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+R31
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/lab62_soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/lab62_soc.v|
+!i113 1
+R7
+!s92 -vlog01compat -work lab62_soc +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis
+R9
+vlab62_soc_hex_digits_pio
+R10
+!i10b 1
+!s100 ?`04Bhh3>CA4@>In<?0AN3
+IcFLe??<;Q@TNR]n:Ijm;g2
+R2
+R0
+R3
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v
+R13
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_irq_mapper
+R17
+R10
+!i10b 1
+!s100 ?AYgHA3SBG6TWm[NdVeGb3
+IQVlQLZYXP9]@NG0@35aC^2
+R2
+!s105 lab62_soc_irq_mapper_sv_unit
+S1
+R0
+R30
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_irq_mapper.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_irq_mapper.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_jtag_uart
+R1
+!i10b 1
+!s100 afAaLV`7E]DAH]T@JdYaS3
+I=97jaI]4l3c;RW;Zk=_9e3
+R2
+R0
+Z32 w1651078101
+Z33 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v
+Z34 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v
+L0 331
+R5
+r1
+!s85 0
+31
+R6
+Z35 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v|
+Z36 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_jtag_uart.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_jtag_uart_scfifo_r
+R1
+!i10b 1
+!s100 00YFlf=RhJf]G_I4:XAe52
+ITe_[n88acXLk0e36f2zcD0
+R2
+R0
+R32
+R33
+R34
+L0 243
+R5
+r1
+!s85 0
+31
+R6
+R35
+R36
+!i113 1
+R7
+R8
+R9
+vlab62_soc_jtag_uart_scfifo_w
+R1
+!i10b 1
+!s100 54OQ[m]aM]WZM4l<z>RXZ2
+IU0oMbC1Kf[hei1H9^SJ_[3
+R2
+R0
+R32
+R33
+R34
+L0 78
+R5
+r1
+!s85 0
+31
+R6
+R35
+R36
+!i113 1
+R7
+R8
+R9
+vlab62_soc_jtag_uart_sim_scfifo_r
+R1
+!i10b 1
+!s100 HcM2509b=8hZd14oK3IGX2
+IUHPlF:RajUfk];ibLG:aD0
+R2
+R0
+R32
+R33
+R34
+L0 164
+R5
+r1
+!s85 0
+31
+R6
+R35
+R36
+!i113 1
+R7
+R8
+R9
+vlab62_soc_jtag_uart_sim_scfifo_w
+R1
+!i10b 1
+!s100 iSb0`eL8T;B05zZF?4[UW2
+IUSSM`9Z<0o4GlOXLeNGO:3
+R2
+R0
+R32
+R33
+R34
+R13
+R5
+r1
+!s85 0
+31
+R6
+R35
+R36
+!i113 1
+R7
+R8
+R9
+vlab62_soc_key
+R1
+!i10b 1
+!s100 6bLbOAKl]CDNLRR0lSAEZ1
+IN>?Uil^963`H5S36Al@F51
+R2
+R0
+R32
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_key.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_key.v
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_key.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_key.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_keycode
+Z37 !s110 1651545201
+!i10b 1
+!s100 Tc`<h:;k_<[fi3WbIU8`n2
+IjdCV1_g1SzfdU=nI9b?kR0
+R2
+R0
+Z38 w1651078102
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_keycode.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_keycode.v
+R13
+R5
+r1
+!s85 0
+31
+Z39 !s108 1651545201.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_keycode.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_leds_pio
+R37
+!i10b 1
+!s100 I^^F?[S44MGZ5kgdHi0QA1
+Io;L14<gSfYQ>6DnWG[g^^0
+R2
+R0
+R38
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v
+R13
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_leds_pio.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_mm_interconnect_0
+R11
+!i10b 1
+!s100 C>]TUhEab4oKebDbi3SD<0
+IN<4LbUiWngPoT]VckU;Eg1
+R2
+R0
+R30
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_mm_interconnect_0_avalon_st_adapter
+R11
+!i10b 1
+!s100 6nomGWUAM0j`lJVg6SV<o3
+IE<li=[]z6nIA892zS4SED2
+R2
+R0
+w1651078160
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_mm_interconnect_0_avalon_st_adapter_005
+R11
+!i10b 1
+!s100 aIW^]G^V6;W?A1;4=T8P22
+I8dOU8Td:1hkS[DV`FFMHE2
+R2
+R0
+Z40 w1651078162
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v
+L0 9
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0
+R17
+R10
+!i10b 1
+!s100 6bbF>8d_]<S;DzS79<hkF3
+IFmcTCcH`T?@DV4QVPkSzW2
+R2
+!s105 lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0_sv_unit
+S1
+R0
+R40
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv
+Z41 L0 66
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_005_error_adapter_0.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R17
+R10
+!i10b 1
+!s100 ^lK7o7ZizLIZZzVPMZ>eU1
+IYkX=:<HUZ[2^ePV>OK>RQ3
+R2
+!s105 lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R40
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+R41
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_cmd_demux
+R17
+R25
+!i10b 1
+!s100 Z3CV^DM0k8LX:M9b`Bn:d1
+Ic=IM^;bUoWR257Uah@Vo`3
+R2
+!s105 lab62_soc_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_demux.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_demux.sv
+Z42 L0 43
+R5
+r1
+!s85 0
+31
+R26
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_cmd_mux
+R17
+R25
+!i10b 1
+!s100 [Lmo`Oj6?]FA`ZKj]PGAk2
+I=3BKDEBY`6@gCnP1A6bBW0
+R2
+!s105 lab62_soc_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_mux.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_mux.sv
+Z43 L0 51
+R5
+r1
+!s85 0
+31
+R26
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router
+R17
+R25
+!i10b 1
+!s100 _<MTNM9N9YA3BAI[PSPo32
+IM_9]aU[iZl20>@Y<i9?]X0
+R2
+Z44 !s105 lab62_soc_mm_interconnect_0_router_sv_unit
+S1
+R0
+R12
+Z45 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router.sv
+Z46 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router.sv
+Z47 L0 84
+R5
+r1
+!s85 0
+31
+R26
+Z48 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router.sv|
+Z49 !s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router_002
+R17
+R25
+!i10b 1
+!s100 NX7kG8IF;_m1N4VA0Fe`B2
+IZ]adAUM5enU3DT@HC2F5T0
+R2
+Z50 !s105 lab62_soc_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R12
+Z51 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_002.sv
+Z52 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_002.sv
+R47
+R5
+r1
+!s85 0
+31
+R26
+Z53 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_002.sv|
+Z54 !s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_002.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router_002_default_decode
+R17
+R25
+!i10b 1
+!s100 IYWT4BZgK6MI_MhBRH_[j1
+IabYj;]9Ma06eaZS`>X2;j0
+R2
+R50
+S1
+R0
+R12
+R51
+R52
+Z55 L0 45
+R5
+r1
+!s85 0
+31
+R26
+R53
+R54
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router_007
+R17
+R25
+!i10b 1
+!s100 5D]FPFCXm]8bU7AM[:0nC2
+IT`X5ZUSXXflEVUGIinU<O1
+R2
+Z56 !s105 lab62_soc_mm_interconnect_0_router_007_sv_unit
+S1
+R0
+R12
+Z57 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_007.sv
+Z58 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_007.sv
+R47
+R5
+r1
+!s85 0
+31
+R26
+Z59 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_007.sv|
+Z60 !s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_router_007.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router_007_default_decode
+R17
+R25
+!i10b 1
+!s100 za^EPU8nJ:BA@;k8PS_Ij3
+ImO1Gihi=bh__2H5l0[NZI1
+R2
+R56
+S1
+R0
+R12
+R57
+R58
+R55
+R5
+r1
+!s85 0
+31
+R26
+R59
+R60
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_router_default_decode
+R17
+R25
+!i10b 1
+!s100 oML`01Xj2]IzG34[]d`VX2
+Ic0VX<6Zfz047SRVfgW^6Q2
+R2
+R44
+S1
+R0
+R12
+R45
+R46
+R55
+R5
+r1
+!s85 0
+31
+R26
+R48
+R49
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_rsp_demux
+R17
+R25
+!i10b 1
+!s100 S0Yo8g1[b=FPb]BzR7f1:2
+IFN6Ta;doA7m_oah6Kiin:0
+R2
+!s105 lab62_soc_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_demux.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_demux.sv
+R42
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_mm_interconnect_0_rsp_mux
+R17
+R10
+!i10b 1
+!s100 U8oZb01?GT<L^iBd3WE391
+I]1`1mIJ`EVYRLJ]SafdRW3
+R2
+!s105 lab62_soc_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_mux.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_mux.sv
+R43
+R5
+r1
+!s85 0
+31
+R15
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R23
+R24
+R9
+vlab62_soc_nios2_gen2_0
+R37
+!i10b 1
+!s100 @X>N:3277U`7WVA3ZJkif1
+ISBLTQb9;H0_N9OLYO46ke3
+R2
+R0
+Z61 w1651078104
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu
+R37
+!i10b 1
+!s100 3?UZUL^3@VD9YNb@e@^AF1
+IUo0>FD_Rhk?S]@5]W_k`;2
+R2
+R0
+R12
+Z62 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v
+Z63 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v
+L0 2834
+R5
+r1
+!s85 0
+31
+R39
+Z64 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v|
+Z65 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk
+R37
+!i10b 1
+!s100 jCF>n:UMiAfL;;:^j6[OB3
+IDA40dUzZDCnzhWlcL8mWD1
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+R13
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_tck
+R37
+!i10b 1
+!s100 `BcC:B`YVjd[bcKe4Wo;@3
+I?<@O3m^JZAU>M[LT6`Vo`2
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+R13
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_tck.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper
+R37
+!i10b 1
+!s100 A6V4`;@MUSlTVbeZm>3Kh1
+IekM;k_LYH9X9g=;f2ALDe1
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+R13
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_avalon_reg
+R37
+!i10b 1
+!s100 FKYZCYN<0IeTh>YajoQEY2
+Ig1BdB:X:m[BlbV=ERoQL80
+R2
+R0
+R12
+R62
+R63
+L0 2023
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci
+R37
+!i10b 1
+!s100 ;A>08_5]:_8j9JkjO7:0]1
+I1n4J@S7h^N3F<:cz;c4H33
+R2
+R0
+R12
+R62
+R63
+L0 2362
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_break
+R37
+!i10b 1
+!s100 S4HnVeQDgNK<3nZQd8neW2
+IRmR^SW>CLNinVc8YV?62W1
+R2
+R0
+R12
+R62
+R63
+L0 295
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_compute_input_tm_cnt
+R37
+!i10b 1
+!s100 l1VhgKz2`A1?@3Lf6zTEP3
+IINM60hkMoB4E^0K[?;Jlm0
+R2
+R0
+R12
+R62
+R63
+L0 1265
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_dbrk
+R37
+!i10b 1
+!s100 C7bo:iMRco26WF?fU4Om^1
+I`jQiOYF9@[@9`k<6cLzF@3
+R2
+R0
+R12
+R62
+R63
+L0 795
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_debug
+R37
+!i10b 1
+!s100 c2RbW?L:f2D8c3B2J3DFj0
+IFl0NJF=GbhF90I??PDmUY3
+R2
+R0
+R12
+R62
+R63
+L0 153
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_dtrace
+R37
+!i10b 1
+!s100 W85dCYE]^QKOQYlc;z5G_1
+IFP@K[acNCz^XE9]A`Z=LF3
+R2
+R0
+R12
+R62
+R63
+L0 1183
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo
+R37
+!i10b 1
+!s100 iHzPVi:0gJ>T^7S2VmBC92
+ILaNFL:ceS5@?I6WLLCP3L2
+R2
+R0
+R12
+R62
+R63
+L0 1427
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo_cnt_inc
+R37
+!i10b 1
+!s100 dg?AO7MeG5mP23MdMSJb41
+I<IdJ]f84OH8G4Z5432^f^2
+R2
+R0
+R12
+R62
+R63
+L0 1380
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_fifo_wrptr_inc
+R37
+!i10b 1
+!s100 gKU;1`H34dQRWHbk^BoNb1
+IkGF^YzkDWa>JeH?;DI2Eh0
+R2
+R0
+R12
+R62
+R63
+L0 1337
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_im
+R37
+!i10b 1
+!s100 OJ[5BDo>kjbXFijI]38ET1
+IMG4:UREZdG8TFI7_C6aXe0
+R2
+R0
+R12
+R62
+R63
+L0 1936
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_itrace
+R37
+!i10b 1
+!s100 VY<TeiR2FLH1@G?5XJ8b_1
+I?cYNkl0LfT2Z=B2n[B`QS2
+R2
+R0
+R12
+R62
+R63
+L0 982
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_pib
+R37
+!i10b 1
+!s100 laD^Z5d5_HO>L;H5z4RCA3
+Idg7XJDkTmAbWj9lX2li@@0
+R2
+R0
+R12
+R62
+R63
+L0 1913
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_td_mode
+R37
+!i10b 1
+!s100 71gTDzL1Ho336cO7;]Nj53
+I5c@^`<N^;6[@@YVFc=QD?3
+R2
+R0
+R12
+R62
+R63
+L0 1115
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_oci_xbrk
+R37
+!i10b 1
+!s100 8Z2OL?H11iECPfXc8zEdJ1
+ID7[g:A_]fKYLiWz]b:LzZ3
+R2
+R0
+R12
+R62
+R63
+L0 588
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_ocimem
+R37
+!i10b 1
+!s100 BA[DEc;G6Pkn_PU1j?kg;2
+Ig1V@^bPXZC6f:;5GXHPH;0
+R2
+R0
+R12
+R62
+R63
+L0 2181
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_nios2_performance_monitors
+R37
+!i10b 1
+!s100 89b[mDK;Z7zO[i]f]U?6`1
+IX;aiTJ7A@<@YzWVd0C=hz3
+R2
+R0
+R12
+R62
+R63
+L0 2006
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_ociram_sp_ram_module
+R37
+!i10b 1
+!s100 Fd?l^U;7G:PS[SgY]_SGQ2
+IH1Pm7K`9Z1nkcFjBk_ijF1
+R2
+R0
+R12
+R62
+R63
+L0 2116
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_register_bank_a_module
+R37
+!i10b 1
+!s100 KHo?h?QR_KFSL9Hc:E8>n2
+Ic<3L8=aVZ=GOR8H`7P:P?2
+R2
+R0
+R12
+R62
+R63
+R13
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_register_bank_b_module
+R37
+!i10b 1
+!s100 A<bS5JNB`3mo;jcC_5^UC1
+Ia3Yo^z4QXm2QT6OFVH@RJ2
+R2
+R0
+R12
+R62
+R63
+L0 87
+R5
+r1
+!s85 0
+31
+R39
+R64
+R65
+!i113 1
+R7
+R8
+R9
+vlab62_soc_nios2_gen2_0_cpu_test_bench
+R37
+!i10b 1
+!s100 YbM>Hj>a<_B>@]RhaNU933
+IW6>IWKV>MaS6NInBFkmh@2
+R2
+R0
+R12
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v
+R13
+R5
+r1
+!s85 0
+31
+R39
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_nios2_gen2_0_cpu_test_bench.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram
+R37
+!i10b 1
+!s100 dAjTS]FmK^3eRFMfM<ZLM0
+IYA2HOAOjz?J`]f^zD6A_Z1
+R2
+R0
+R61
+Z66 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram.v
+Z67 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram.v
+L0 159
+R5
+r1
+!s85 0
+31
+R39
+Z68 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram.v|
+Z69 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram_input_efifo_module
+R37
+!i10b 1
+!s100 _03kZT[J1BVcnVdGiEGo42
+Ib=S`^^A=PIZXh7L<]RY[T2
+R2
+R0
+R61
+R66
+R67
+R13
+R5
+r1
+!s85 0
+31
+R39
+R68
+R69
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram_pll
+R37
+!i10b 1
+!s100 47MbJ5cld938d4SdK4;@F2
+IGdIOcaCo5b:D;i[8az]4b1
+R2
+R0
+Z70 w1651078116
+Z71 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v
+Z72 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v
+L0 217
+R5
+r1
+!s85 0
+31
+R14
+Z73 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v|
+Z74 !s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sdram_pll.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram_pll_altpll_vg92
+R37
+!i10b 1
+!s100 iiSG05Ch33]aVaShnC8OQ2
+IzX:?QZ7c^BLWCi1B[XR8N0
+R2
+R0
+R70
+R71
+R72
+L0 130
+R5
+r1
+!s85 0
+31
+R14
+R73
+R74
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram_pll_dffpipe_l2c
+R37
+!i10b 1
+!s100 ]AgAX_;f;Bjl64JGM[7?f3
+Ii3dP:XiG?MhQN?bEAUBDl0
+R2
+R0
+R70
+R71
+R72
+L0 37
+R5
+r1
+!s85 0
+31
+R14
+R73
+R74
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sdram_pll_stdsync_sv6
+R37
+!i10b 1
+!s100 H?UzKL`=<aoE0Ga16D?U;3
+Ij9B5nlV4L^bFdfAZWgcVc1
+R2
+R0
+R70
+R71
+R72
+L0 98
+R5
+r1
+!s85 0
+31
+R14
+R73
+R74
+!i113 1
+R7
+R8
+R9
+vlab62_soc_spi0
+R11
+!i10b 1
+!s100 87lXhj^WH?B;D:?T2m:be1
+I;Qfee]`Hh>ga4]<HLS?=O3
+R2
+R0
+Z75 w1651078117
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_spi0.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_spi0.v
+L0 41
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_spi0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_spi0.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_sysid_qsys_0
+R11
+!i10b 1
+!s100 TG[nUHzcLIY08m5MbRAc03
+IiGSz7ZzD]]zzMg@i[@Y7]1
+R2
+R0
+R75
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v
+R29
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_sysid_qsys_0.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_timer
+R11
+!i10b 1
+!s100 U[;QlkFZ>CcoUe9LigUPX2
+IennW]J[7E1UdADEik;52S2
+R2
+R0
+Z76 w1651078118
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_timer.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_timer.v
+R13
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_timer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_timer.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_usb_gpx
+R11
+!i10b 1
+!s100 GULeeJo[_X`=QGkJ1bdHB0
+IRh[WZMB=N8dd@glJ=HdH52
+R2
+R0
+R76
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v
+R13
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_gpx.v|
+!i113 1
+R7
+R8
+R9
+vlab62_soc_usb_rst
+R11
+!i10b 1
+!s100 eJCCQH4Bd34M<T@n9YJ2^1
+IYP5O^]JCY=`Q3;R=a>IWl0
+R2
+R0
+w1651078119
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v
+R13
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab62_soc|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_usb_rst.v|
+!i113 1
+R7
+R8
+R9

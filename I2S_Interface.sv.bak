@@ -1,0 +1,32 @@
+module I2S_Interface (
+    input logic [15:0] D_IN, 
+    input logic LRCLK, SCLK,
+    output logic D_OUT
+);
+
+    logic [23:0] lshiftreg;
+    assign D_OUT = lshiftreg[23];
+    
+    always_ff @ posedge LRCLK
+    begin
+        lshiftreg[23] <= 0;
+        lshiftreg[22:7] <= D_IN;
+        lshiftreg[6:0] <= 7'd0;
+    end
+	 
+	 always_ff @ negedge LRCLK
+    begin
+        lshiftreg[23] <= 0;
+        lshiftreg[22:7] <= D_IN;
+        lshiftreg[6:0] <= 7'd0;
+    end
+    
+    always_ff @ posedge SCLK 
+    begin
+        
+        lshiftreg <= lshiftreg << 1;
+		  lshiftreg[0] <= 0;
+    
+    end
+
+endmodule

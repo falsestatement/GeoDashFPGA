@@ -1,0 +1,20 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlib lab62_soc
+vmap lab62_soc lab62_soc
+vlog -vlog01compat -work lab62_soc +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules {E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62_soc/synthesis/submodules/lab62_soc_hex_digits_pio.v}
+vlog -sv -work work +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62 {E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/I2S_Interface.sv}
+
+vlog -sv -work work +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62 {E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/testbench.sv}
+
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -L lab62_soc -voptargs="+acc"  testbench
+
+add wave *
+view structure
+view signals
+run 12000 ns

@@ -1,0 +1,103 @@
+module obstacle_triangle
+(
+    input       is_flipped,
+    input       start_moving,
+    input       [9:0] Player_Y, Player_size,
+    input       Reset, frame_clk,
+	output      [9:0] Triangle_X, Triangle_Y,
+	output      will_collide
+);
+
+// 210 is the hardcoded X position of the Column
+logic [9:0] Triangle_X_Pos, Triangle_X_Motion, Triangle_Y_Pos;
+
+// The player column will be hardcoded(center of column is at 210 and will have a width equal to player model)
+parameter [9:0] PlayerColumn_center = 210;
+
+// hardcoded triangle size into the module
+// Length of one side of the triangle is two times Triangle_size(16)
+parameter [9:0] Triangle_size = 8;  // assigns the value 8 as a 10-digit binary number, ie "0000001000"
+
+// The center of the triangle will be at the 3/4th the Triangle_size(6) from the surface and is also center of hitbox
+parameter [9:0] Hitbox_Center_dist = 6;
+
+// Hitbox is a rectangle. 
+// Width of hitbox is 1/4 length of triangle side(4), thus is 1/8th of that in left and right directions(2)
+parameter [9:0] Hitbox_size_h = 8;
+// Length is 1/2 side length(8) thus is 1/4th of that in up and down directions(4)
+parameter [9:0] Hitbox_size_v = 4;
+
+parameter [9:0] Hitbox_Center_top = 50 + 3;
+parameter [9:0] Hitbox_Center_bottom = 429 - 3;
+// The center of the hitbox will be 6 away from the floor or ceiling based on inversion
+// assign Hitbox_Center_bottom = 311 - 6;
+// assign Hitbox_Center_top = 100 + 6;  // Set ceiling height to be 50
+
+always_comb
+begin
+    if ( ( start_moving || ( (Triangle_X <= 635) && (Triangle_X >= 5) ) && will_collide == 0) )
+        Triangle_X_Motion <= 10'd5;
+    else
+        Triangle_X_Motion <= 10'd0;
+end
+
+
+always_comb
+begin: collision_check
+// Check if the Obstacle overlaps with the Player Column
+if (
+    // Horizontal check
+    (((Triangle_X - Hitbox_size_h <= PlayerColumn_center + Player_size) &&    // left of triangle goes into right side of column
+    (Triangle_X + Hitbox_size_h > PlayerColumn_center + Player_size)) ||
+    ((Triangle_X - Hitbox_size_h >= PlayerColumn_center - Player_size) &&    // triangle within column
+    (Triangle_X + Hitbox_size_h <= PlayerColumn_center + Player_size)) ||
+    ((Triangle_X - Hitbox_size_h < PlayerColumn_center - Player_size) &&    // right of triangle is within bounds of column
+    (Triangle_X + Hitbox_size_h >= PlayerColumn_center - Player_size))) 
+&& 
+    // vertical check
+    (((Triangle_Y - Hitbox_size_v < Player_Y - Player_size) &&    // top part of player collision
+    (Triangle_Y + Hitbox_size_v >= Player_Y - Player_size)) ||
+    ((Triangle_Y - Hitbox_size_v >= Player_Y - Player_size) &&    // middle part of collision
+    (Triangle_Y + Hitbox_size_v <= Player_Y + Player_size)) ||
+    ((Triangle_Y - Hitbox_size_v <= Player_Y + Player_size) &&    // top part of collision
+    (Triangle_Y + Hitbox_size_v > Player_Y + Player_size)))
+
+    // Triangle_Y >= ( 320 ) 
+    // && 
+    // Triangle_Y <= (Player_Y + Player_size )
+)
+    will_collide = 1'b1;
+    // Triangle_X_Motion <= 10'd0;
+else
+    will_collide = 1'b0;
+end
+
+always_ff @ (posedge Reset or posedge frame_clk )
+begin: Move_Triangle
+    if (Reset)  // Asynchronous Reset
+    begin 
+            // Triangle_X_Motion <= 10'd0;
+            // TODO: Initialize Triangle on the right side of the screen out of view(horizontal stuff)
+            Triangle_X <= 640;
+    end
+    else if(Triangle_X < 10 || Triangle_X_Pos > 640)
+        Triangle_X <= 640;
+    else
+        Triangle_X <= (Triangle_X - Triangle_X_Motion); // doing a subtraction here since it's moving left
+end 
+       
+always_comb 
+begin: assign_y_value
+    if (is_flipped)
+        Triangle_Y = Hitbox_Center_top;
+    else
+        Triangle_Y = Hitbox_Center_bottom;
+end
+
+// assign Triangle_X = 500;
+// assign Triangle_Y = 317;
+
+// assign Triangle_X = Triangle_X_Pos;
+// assign Triangle_Y = Triangle_Y_Pos;
+
+endmodule

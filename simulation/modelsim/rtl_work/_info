@@ -1,0 +1,188 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/simulation/modelsim
+vball
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1651545205
+!i10b 1
+!s100 cnY;:haF1a@VM:]?d`d=>0
+I[QSkz>:GcfdPSnTH>Wh<d3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ball_sv_unit
+S1
+R0
+w1650609750
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/ball.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/ball.sv
+Z4 L0 16
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1651545205.000000
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/ball.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/ball.sv|
+!i113 1
+Z7 o-sv -work work
+Z8 !s92 -sv -work work +incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62
+Z9 tCvgOpt 0
+vclearRAM
+R1
+Z10 !s110 1651545206
+!i10b 1
+!s100 iGgbDd<1[U28ZBdhk?I890
+I1>Jo>?JXa5RTE@VVX_;eI1
+R3
+Z11 !s105 I2S_Interface_sv_unit
+S1
+R0
+Z12 w1651515205
+Z13 8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/I2S_Interface.sv
+Z14 FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/I2S_Interface.sv
+L0 46
+R5
+r1
+!s85 0
+31
+Z15 !s108 1651545206.000000
+Z16 !s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/I2S_Interface.sv|
+Z17 !s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/I2S_Interface.sv|
+!i113 1
+R7
+R8
+R9
+nclear@r@a@m
+vcolor_mapper
+R1
+R2
+!i10b 1
+!s100 kN0>AC4k]mme>1Wh>3X:[2
+I`zgP]nBNUhcV`KL_EWD4f1
+R3
+!s105 Color_Mapper_sv_unit
+S1
+R0
+w1650601351
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/Color_Mapper.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/Color_Mapper.sv
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/Color_Mapper.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/Color_Mapper.sv|
+!i113 1
+R7
+R8
+R9
+vHexDriver
+R1
+R2
+!i10b 1
+!s100 hKBo4zbCRmY3[Ac9JZP;<0
+IhlV@HM0cMGK_J9@?KSmUD1
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1443474828
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/HexDriver.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/HexDriver.sv
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/HexDriver.sv|
+!i113 1
+R7
+R8
+R9
+n@hex@driver
+vI2S_Interface
+R1
+R10
+!i10b 1
+!s100 O?9@9ghi5@78mF9RK=CG_0
+ILdEcR46HzZIchVWQQ5YjZ2
+R3
+R11
+S1
+R0
+R12
+R13
+R14
+L0 1
+R5
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R7
+R8
+R9
+n@i2@s_@interface
+vlab62
+R1
+R2
+!i10b 1
+!s100 m0^W[;6lRGc__d1V0cLPP1
+If[Y11U5a`;jT1kd>:=XAZ3
+R3
+!s105 lab62_sv_unit
+S1
+R0
+w1651545136
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62.sv
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/lab62.sv|
+!i113 1
+R7
+R8
+R9
+vvga_controller
+R1
+R2
+!i10b 1
+!s100 PJJOcFccdZOKRcczIX[X?3
+I7Dne@9V^RG5n?SaV;F^Mg1
+R3
+!s105 VGA_controller_sv_unit
+S1
+R0
+w1413407624
+8E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/VGA_controller.sv
+FE:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/VGA_controller.sv
+L0 25
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/VGA_controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62|E:/OneDrive/University/Sophomore/SP22/ece385becausequartusisstupid/Lab6/lab62/VGA_controller.sv|
+!i113 1
+R7
+R8
+R9
